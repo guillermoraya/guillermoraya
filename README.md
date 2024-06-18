@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @guillermoraya
 - 👀 I’m interested in Machine Learning, CNNs, data science and their applications in health and environmental sciences, physics, psychology or education.
-- 🌱 I’m currently finishing my bachelor's degree on Computational Mathematics and Data Analysis at UAB, Cerdanyola del Vallès.
+- 🌱 I’m currently working as a data science and AI researcher in Eurecat!
 
 <!---
 guillermoraya/guillermoraya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
